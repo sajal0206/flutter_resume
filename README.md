@@ -7,7 +7,6 @@
 # Below are the Screen Shots Android app
 ![image](https://user-images.githubusercontent.com/66727050/151302339-017e68e4-a28c-4120-a01b-580cc659bd8f.png)
 
-<hr>
 ![image](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png) <br>
 ![image](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png) <br>
 ![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png) <br>
