@@ -6,7 +6,7 @@
 
 # Below are the Screen Shots Android app
 
-![](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png | width=50)
+![image](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png = 150x150)
 ![image](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png) <br>
 ![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png)
 ![image](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png) <br>
