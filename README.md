@@ -5,16 +5,17 @@
 <hr>
 
 # Below are the Screen Shots Android app
+![image](https://user-images.githubusercontent.com/66727050/151302339-017e68e4-a28c-4120-a01b-580cc659bd8f.png)
 
 <hr>
-![image](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png)
-![image](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png)
-![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png)
-![image](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png)
-![image](https://user-images.githubusercontent.com/66727050/151297457-5fc0d90e-15a5-4379-bbbf-18ba8c7b10b1.png)
-![image](https://user-images.githubusercontent.com/66727050/151297462-d7d8f7a7-449c-4859-8ab8-cfd7f70fe5d9.png)
-![image](https://user-images.githubusercontent.com/66727050/151297473-8ac71158-eb6c-4406-aab6-39aa72eab978.png)
-![image](https://user-images.githubusercontent.com/66727050/151297480-80d25036-fa43-4467-a97e-d56c0dced2f0.png)
+![image](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297457-5fc0d90e-15a5-4379-bbbf-18ba8c7b10b1.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297462-d7d8f7a7-449c-4859-8ab8-cfd7f70fe5d9.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297473-8ac71158-eb6c-4406-aab6-39aa72eab978.png) <br>
+![image](https://user-images.githubusercontent.com/66727050/151297480-80d25036-fa43-4467-a97e-d56c0dced2f0.png) <br>
 
 <hr><hr>
 
