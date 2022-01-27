@@ -1,10 +1,13 @@
-# flutter_resume
+# flutter Resume
 ## Resume app code using flutter and dart
 ### Flutter Windows executable file is in Release folder
 
-<hr><hr>
+<hr>
 
 # Below are the Screen Shots Android app
+
+![image](https://user-images.githubusercontent.com/66727050/151302156-6a21b5a6-095a-43d6-9849-5ac89b118558.png)
+
 <hr>
 https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png
 ![Screenshot_1643261116](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png)
