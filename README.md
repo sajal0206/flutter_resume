@@ -26,11 +26,11 @@
 
 # Below are the Screen Shots Windows
 <hr>
-![image](https://user-images.githubusercontent.com/66727050/151297721-25dcd8ab-ce54-40d4-b245-ef92b3860e49.png)
-![image](https://user-images.githubusercontent.com/66727050/151297746-93854690-2812-4878-8bff-f415f3053e2d.png)
-![image](https://user-images.githubusercontent.com/66727050/151297775-cba50fc6-7735-4cac-951e-5d9cf4a1b6d9.png)
-![image](https://user-images.githubusercontent.com/66727050/151297797-41e6eedf-73f5-433d-8249-6f071c35c93a.png)
-![image](https://user-images.githubusercontent.com/66727050/151297821-e2f2b51e-8804-4954-a499-a028a663cd04.png)
-![image](https://user-images.githubusercontent.com/66727050/151297860-65be349f-ac45-4d3f-b66e-a75c16664e53.png)
-![image](https://user-images.githubusercontent.com/66727050/151297880-2ec334d7-b6fd-4ea4-a4ee-aaf7389cdfc6.png)
-![image](https://user-images.githubusercontent.com/66727050/151297913-5fa2557e-4590-4220-a655-072bb904eaac.png)
+<img src= "https://user-images.githubusercontent.com/66727050/151297721-25dcd8ab-ce54-40d4-b245-ef92b3860e49.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297746-93854690-2812-4878-8bff-f415f3053e2d.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297775-cba50fc6-7735-4cac-951e-5d9cf4a1b6d9.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297797-41e6eedf-73f5-433d-8249-6f071c35c93a.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297821-e2f2b51e-8804-4954-a499-a028a663cd04.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297860-65be349f-ac45-4d3f-b66e-a75c16664e53.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297880-2ec334d7-b6fd-4ea4-a4ee-aaf7389cdfc6.png" width="30%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297913-5fa2557e-4590-4220-a655-072bb904eaac.png" width="30%">
