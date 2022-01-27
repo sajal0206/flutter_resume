@@ -6,9 +6,9 @@
 
 # Below are the Screen Shots Android app
 
-<img src= "https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png" width="50%">
+<img src= "https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png" width="30%">
 
-<img src= "https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png" width="50%"> <br>
+<img src= "https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png" width="30%"> <br>
 ![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png)
 ![image](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png) <br>
 ![image](https://user-images.githubusercontent.com/66727050/151297457-5fc0d90e-15a5-4379-bbbf-18ba8c7b10b1.png)
