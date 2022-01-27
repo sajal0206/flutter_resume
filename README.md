@@ -6,17 +6,15 @@
 
 # Below are the Screen Shots Android app
 
-![image](https://user-images.githubusercontent.com/66727050/151302156-6a21b5a6-095a-43d6-9849-5ac89b118558.png)
-
 <hr>
-https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png
-![Screenshot_1643261116](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png)
-![Screenshot_1643261120](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png)
-![Screenshot_1643261127](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png)
-![Screenshot_1643261136](https://user-images.githubusercontent.com/66727050/151297457-5fc0d90e-15a5-4379-bbbf-18ba8c7b10b1.png)
-![Screenshot_1643261142](https://user-images.githubusercontent.com/66727050/151297462-d7d8f7a7-449c-4859-8ab8-cfd7f70fe5d9.png)
-![Screenshot_1643261150](https://user-images.githubusercontent.com/66727050/151297473-8ac71158-eb6c-4406-aab6-39aa72eab978.png)
-![Screenshot_1643261160](https://user-images.githubusercontent.com/66727050/151297480-80d25036-fa43-4467-a97e-d56c0dced2f0.png)
+![image](https://user-images.githubusercontent.com/66727050/151297411-e7fa7629-73ae-4acd-894e-194f54b0993b.png)
+![image](https://user-images.githubusercontent.com/66727050/151297422-920487d6-d666-414a-8b3f-1ade80df45ea.png)
+![image](https://user-images.githubusercontent.com/66727050/151297435-6f3da2ff-6f03-4169-97c4-99df0d391e85.png)
+![image](https://user-images.githubusercontent.com/66727050/151297445-c36f21fc-959c-4409-befa-c64d950ff17a.png)
+![image](https://user-images.githubusercontent.com/66727050/151297457-5fc0d90e-15a5-4379-bbbf-18ba8c7b10b1.png)
+![image](https://user-images.githubusercontent.com/66727050/151297462-d7d8f7a7-449c-4859-8ab8-cfd7f70fe5d9.png)
+![image](https://user-images.githubusercontent.com/66727050/151297473-8ac71158-eb6c-4406-aab6-39aa72eab978.png)
+![image](https://user-images.githubusercontent.com/66727050/151297480-80d25036-fa43-4467-a97e-d56c0dced2f0.png)
 
 <hr><hr>
 
